@@ -1,6 +1,6 @@
 def atm_simulation():
 
-    balance = 10000
+    balance = 60000
     print('''
             ***** Welcome To ATM Machine Simulator *****
          ''')
