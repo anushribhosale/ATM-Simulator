@@ -20,7 +20,8 @@ After entering the PIN you will get these options
             1) Balance
             2) Withdraw
             3) Deposit
-            4) Exit
+            4) Exit.
+
 Once you get select the option, the program will command you according to that. 
 
 *If you select Balance, then you can check the balance remaining. 
