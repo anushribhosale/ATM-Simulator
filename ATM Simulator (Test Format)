@@ -20,7 +20,7 @@ def atm_simulation():
         withdraw = int(input('Enter Amount: '))
         if withdraw<=balance:
             balance-=withdraw
-            print(f'Your available e balance is {balance}')
+            print(f'Your available balance is {balance}')
         else:
             print('Insufficient Balance')
     elif choose==3:
