@@ -7,10 +7,10 @@ def atm_simulation():
 
     pin = int(input('Enter Your Pin: '))
     print('''
-            Options you can Excercise are:
+            Options you can Exercise are:
             1) Balance
             2) Withdraw
-            3) Deposite
+            3) Deposit
             4) Exit
          ''')
     choose = int(input('Select Your Transaction from the above options: '))
